@@ -77,6 +77,12 @@ It is always advisable to use a simple but robust model.</p>
     </tr>
 </table>
 
+<h3>The Optimal alpha value for ridge and lasso regression:-</h3>
+<ul>
+    <li>Ridge Alpha 2</li>
+    <li>lasso Alpha 50</li>
+</ul>
+
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Technologies Used
